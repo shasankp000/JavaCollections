@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class arraylist {
+public class lists {
 
     public static void main(String[] args) {
 
